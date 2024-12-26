@@ -15,6 +15,8 @@ This project implements a neural machine translation system using a Bidirectiona
 
 ### Model Files
 
+Present in Hugging Face: https://huggingface.co/sprab4/Simple_LSTM_Translator
+
 - `model_en_to_ht.pth`: English to Haitian Creole translation model
 - `model_ht_to_en.pth`: Haitian Creole to English translation model
 
@@ -70,7 +72,3 @@ The model demonstrates:
 - Superior performance in Haitian to English direction
 - Consistent validation metrics
 - Moderate overall translation quality
-
-## HuggingFace Integration
-
-The model is also available on HuggingFace's model hub. You can access it at https://huggingface.co/sprab4/Simple_LSTM_Translator
