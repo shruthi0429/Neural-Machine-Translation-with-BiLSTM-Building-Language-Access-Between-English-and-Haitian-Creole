@@ -1,7 +1,5 @@
 # Neural-Machine-Translation-with-BiLSTM-Building-Language-Access-Between-English-and-Haitian-Creole
 
-# LSTM Translation with Bidirectional LSTM
-
 This project implements a neural machine translation system using a Bidirectional LSTM architecture for translating between English and Haitian Creole. The repository contains trained LSTM models for bidirectional translation between these languages.
 
 ## Project Overview
